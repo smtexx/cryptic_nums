@@ -1,0 +1,16 @@
+export type Arrows =
+  | 'purposefulness'
+  | 'procrastination'
+  | 'spirituality'
+  | 'research'
+  | 'intelligence'
+  | 'forgetfulness'
+  | 'equilibrium'
+  | 'hypersensitivity'
+  | 'practicality'
+  | 'chaos'
+  | 'planning'
+  | 'will'
+  | 'dissatisfaction'
+  | 'activity'
+  | 'passivity';

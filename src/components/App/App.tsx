@@ -1,8 +1,9 @@
-import React from 'react';
-import logo from './logo.svg';
+import NumerologyMap from '../../logic/parts/NumerologyMap';
+import logo from '../../svg/logo.svg';
 import './App.css';
 
 function App() {
+  console.log(new NumerologyMap(31, 5, 1966));
   return (
     <div className="App">
       <header className="App-header">
